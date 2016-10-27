@@ -11,7 +11,6 @@
     "indent": ["error",2],
     "no-trailing-spaces": ["error", { "skipBlankLines": true }],
     "func-names": ["error", "never"],
-    "extension": [2]
     },
 
 }
